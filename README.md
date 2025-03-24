@@ -1,5 +1,11 @@
 # Funding Pips - Senior Frontend Engineer Assessment
 
+## Assignment time spent
+
+- developing the NextJS app and UI: 1.5h - 2h
+- refactor and tests, crafting README.md: 1.5h - 2h
+- deplpying and debugging deployment: 0.5h
+
 This is a real-time stock tracking application built with Next.js, TypeScript, and the custom `@wowjob/ui` library. It integrates with the Finnhub API to provide stock search functionality and live price updates for a predefined list of stocks and cryptocurrency pairs. The application features a watchlist with historical trend visualization using mock candle data.
 
 ## Setup
